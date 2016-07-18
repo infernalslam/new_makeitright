@@ -19,7 +19,7 @@ body {
 
 
 
-
+/*/////////////////////////////////////////////////////*/
  /*menu bar header*/
 .menu-bar {
 	margin-left: 0px;
@@ -80,7 +80,7 @@ li a:hover {
 	margin-left: 622px;
     margin-right: -1px;
     margin-top: -12px;
-    padding-bottom: 58px;
+    padding-bottom: 20px;
     background-color: rgb(239, 31, 86);
 }
 
@@ -88,7 +88,8 @@ li a:hover {
 .title {
 	color: rgb(255, 255, 255);
     padding-left: 99px;
-    padding-top: 41px;
+    padding-top: 12px;
+    margin-top: -413px;
 }
 .title2 {
 	color: rgb(255, 255, 255);
@@ -130,7 +131,7 @@ li a:hover {
     margin-left: 75px;
     padding-left: 55px;
     padding-top: 4px;
-    padding-bottom: 27px;
+    padding-bottom: 0.5px;
     background-color: wheat;
     border-radius: 15px;
 }
@@ -139,9 +140,35 @@ li a:hover {
 }
 .numday {
 	color: rgb(81, 81, 81);
+	margin-top: -23px;
 }
 .title6 {
 	color: rgb(239, 31, 86);
     margin-top: -23px;
     padding-left: 22px;
+}
+.youtube {
+    background-color: #365890;;
+    margin-left: -631px;
+    margin-right: 367px;
+    margin-top: 4px;
+    padding-bottom: 385px;
+}
+
+/*block*/
+
+/*/////////////////////////////////////////////////*/
+
+.section2 {
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #17243a;
+    min-height: 300px;
+	margin: 25px 128px;
+    overflow: hidden;
+    padding: 15px 20px;
+    -webkit-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    -moz-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
 }
