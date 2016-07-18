@@ -80,7 +80,7 @@ li a:hover {
 	margin-left: 622px;
     margin-right: -1px;
     margin-top: -12px;
-    padding-bottom: 296px;
+    padding-bottom: 58px;
     background-color: rgb(239, 31, 86);
 }
 
@@ -124,4 +124,24 @@ li a:hover {
     padding-left: 73px;
     padding-top: 67px;
     margin-top: -28px;
+}
+.countdown {
+	margin-right: 59px;
+    margin-left: 75px;
+    padding-left: 55px;
+    padding-top: 4px;
+    padding-bottom: 27px;
+    background-color: wheat;
+    border-radius: 15px;
+}
+.title5 {
+	color: rgb(239, 31, 86);
+}
+.numday {
+	color: rgb(81, 81, 81);
+}
+.title6 {
+	color: rgb(239, 31, 86);
+    margin-top: -23px;
+    padding-left: 22px;
 }
