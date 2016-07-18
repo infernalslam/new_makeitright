@@ -159,6 +159,8 @@ li a:hover {
 
 /*/////////////////////////////////////////////////*/
 
+/*ส่วนท่2*/
+
 .section2 {
 	-webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -171,4 +173,21 @@ li a:hover {
     -webkit-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
     -moz-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
     box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+}
+.box1 {
+	background-color: red;
+    margin-right: 484px;
+    padding-bottom: 455px;
+}
+.box2 {
+	background-color: yellow;
+    margin-left: 510px;
+    margin-top: -479px;
+    padding-bottom: 210px;
+}
+.box3 {
+	background-color: white;
+    margin-left: 510px;
+    padding-bottom: 196px;
+    margin-top: 21px;
 }
