@@ -414,14 +414,14 @@ li a:hover {
 }
 .mini2 {
 	border: 5px solid rgb(26, 75, 153);
-	margin-left: 323px;
-    margin-right: 362px;
-    margin-top: -36px;
+	margin-left: 332px;
+    margin-right: 342px;
+    margin-top: -381px;
 }
 .mini3 {
 	border: 5px solid rgb(240, 31, 86);
-	margin-left: 652px;
-	margin-top: -36px;
+	margin-left: 668px;
+	margin-top: -382px;
 }
 .textmini1 {
 	color: #1a4b99;
@@ -461,4 +461,88 @@ li a:hover {
 	color: #545454;
 	text-align: center;
 	margin-top: -41px;
+}
+.linkmini1 a {
+    text-decoration: none;
+    width: 100%;
+    padding: 8px;
+    margin-left: 53px;
+    padding-right: 59px;
+    padding-left: 55px;
+    font-weight: bold;
+    text-align: center;
+    color: #1a4b99 !important;
+    font-size: 1.4em;
+    background: #f8cb33;
+    border-bottom: 9px #C09446 solid;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 20px;
+}
+
+
+
+
+
+/*ส่วน top rank*/
+.section5 {
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: white;
+    min-height: 300px;
+	margin: 25px 128px;
+    overflow: hidden;
+    padding: 150px 20px;
+}
+.toprank {
+    background: #1a4b99;
+    text-align: center;
+    margin-left: 282px;
+    margin-right: 317px;
+    border-radius: 26px;
+    padding-top: 9px;
+    padding-bottom: 13px;
+    color: #facc09 !important;
+    border-bottom: 9px #3F51B5 solid;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.top1 {
+    margin-right: 537px;
+    margin-top: 35px;
+    border: 5px solid rgb(26, 75, 153); 
+}
+.top2 {
+    background-color: rgb(26, 75, 153);
+    margin-left: 519px;
+    margin-top: -190px;
+
+}
+.titletoprank {
+    color: #8ac452;
+    text-align: center;
+}
+.titletoprank2 {
+    color: rgb(26, 75, 153);
+    text-align: center;
+}
+.top10 {
+    color: rgb(26, 75, 153);
+    text-align: center;
+}
+
+.alltop10 {
+    text-align: center;
+}
+.alltop10 td {
+    padding-left: 61px;
+    text-align: center;
+}
+.top11-30 {
+    color: white;
+    text-align: center;
+}
+.white {
+    color: white;
 }
