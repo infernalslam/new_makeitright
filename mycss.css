@@ -184,7 +184,7 @@ li a:hover {
     background-color: #ef1f56;
     margin-left: 510px;
     margin-top: -687px;
-    padding-bottom: 208px;
+    padding-bottom: 43px;
 }
 .box3 {
 	background-color: #1a4b99;
@@ -221,4 +221,27 @@ li a:hover {
     margin-bottom: -85px;
     margin-top: 33px;
     padding-bottom: 293px;
+}
+.circle1 {
+	background-color: #f8cb33;
+    height: 45px;
+    width: 90px;
+    padding-bottom: 109px;
+    padding-left: 92px;
+    border-radius: 0% 0% 102% 0%;
+}
+.text1 {
+	color: #1f2a3a;
+	margin-left: -65px;
+	padding-top: 19px;
+}
+.text2 {
+	color: #ef1f54;
+    margin-left: -64px;
+    margin-top: -28px;
+}
+.text3 {
+	color: #ef1f54;
+    margin-left: -56px;
+    margin-top: -26px;
 }
