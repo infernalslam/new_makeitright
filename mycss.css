@@ -282,3 +282,71 @@ li a:hover {
 }
 
 /*////////////////// จบส่วนที่สอง*/
+
+/*ส่วนที่ 3*/
+
+.section3 {
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #d8e2e1;
+    min-height: 300px;
+	margin: 25px 128px;
+    overflow: hidden;
+    padding: 15px 20px;
+    -webkit-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    -moz-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    -moz-box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+    box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
+}
+.productreward {
+    background: rgb(248, 203, 51);
+    text-align: center;
+    margin-left: 282px;
+    margin-right: 317px;
+    border-radius: 26px;
+    padding-top: 9px;
+    padding-bottom: 13px;
+    color: rgb(240, 31, 86) !important;
+    border-bottom: 9px #C09446 solid;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.selectionbox {
+	background-color: red;
+	margin: 0.5em 0;
+    padding: 0.25em;
+    text-align: center;
+    background: #eee;
+    border-radius: 0.25em;
+    margin: 0;
+    padding: 0;
+}
+.col {
+	float: left;
+    width: 100%;
+}
+.item1 {
+	margin: 0.25em;
+    padding: 13.5em 0;
+    margin-right: 505px;
+    color: #fff;
+    background: #ef1f56;
+    font-weight: bold;
+    line-height: 1em;
+    border: solid 11px white;
+    border-radius: 0.25em;
+}
+.item2 {
+	margin: 0.25em;
+    margin-top: -473px;
+    padding: 13.5em 0;
+    color: #fff;
+    background: #8ac43f;
+    font-weight: bold;
+    line-height: 1em;
+    border: solid 11px white;
+    border-radius: 0.25em;
+    margin-left: 490px;
+}
