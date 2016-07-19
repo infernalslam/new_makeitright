@@ -340,7 +340,7 @@ li a:hover {
 }
 .item2 {
 	margin: 0.25em;
-    margin-top: -473px;
+    margin-top: -533px;
     padding: 13.5em 0;
     color: #fff;
     background: #8ac43f;
@@ -349,4 +349,116 @@ li a:hover {
     border: solid 11px white;
     border-radius: 0.25em;
     margin-left: 490px;
+}
+.circlesec1 {
+	background-color: #f8cb33;
+    border-radius: 50%;
+    width: 11%;
+    height: 17%;
+    margin-left: 186px;
+    margin-top: -68px;
+    padding-top: 1px;
+    padding-right: 0px;
+    padding-left: 1px;
+    border: 9px #ffffff solid;
+}
+.circlesec2 {
+	background-color: #f8cb33;
+    border-radius: 50%;
+    width: 11%;
+    height: 17%;
+    margin-left: 681px;
+    margin-top: -65px;
+    padding-top: 3px;
+    padding-right: 0px;
+    padding-left: 1px;
+    border: 9px #ffffff solid;
+}
+
+/*ส่วนที่ 4*/
+/*ส่วนของเส้น*/
+.line {
+	color: #204ca5;
+	font-size: 92px;
+	text-align: center;
+}
+
+/*miniconcert*/
+.section4 {
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: white;
+    min-height: 300px;
+	margin: 25px 128px;
+    overflow: hidden;
+    padding: 15px 20px;
+}
+.miniconcert {
+    background: #1a4b99;
+    text-align: center;
+    margin-left: 282px;
+    margin-right: 317px;
+    border-radius: 26px;
+    padding-top: 9px;
+    padding-bottom: 13px;
+    color: #facc09 !important;
+    border-bottom: 9px #3F51B5 solid;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.mini1 {
+	border: 5px solid #f8cb33; 
+	margin-right: 680px;
+	margin-top: 34px;
+}
+.mini2 {
+	border: 5px solid rgb(26, 75, 153);
+	margin-left: 323px;
+    margin-right: 362px;
+    margin-top: -36px;
+}
+.mini3 {
+	border: 5px solid rgb(240, 31, 86);
+	margin-left: 652px;
+	margin-top: -36px;
+}
+.textmini1 {
+	color: #1a4b99;
+	text-align: center;
+}
+.textmini2 {
+	color: #ef1f56;
+	text-align: center;
+	margin-top: -29px;
+}
+.textmini3 {
+	color: #545454;
+	text-align: center;
+	margin-top: -44px;
+}
+.textmini4 {
+	color: #545454;
+	text-align: center;
+	margin-top: -44px;
+}
+
+.textmini5 {
+	color: #545454;
+	text-align: center;
+	margin-top: -43px;
+}
+.textmini6 {
+	color: #1a4b99;
+	text-align: center;
+	margin-top: -11px;
+}
+.underline {
+	border-top: 3px dashed #f8cb33;
+	margin-top: -24px;
+}
+.textmini7 {
+	color: #545454;
+	text-align: center;
+	margin-top: -41px;
 }
