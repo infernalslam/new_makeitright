@@ -175,19 +175,50 @@ li a:hover {
     box-shadow: 9px 8px 17px -1px rgba(163, 163, 163, 0.69);
 }
 .box1 {
-	background-color: red;
+	/*background-color: red;*/
     margin-right: 484px;
-    padding-bottom: 455px;
+    padding-bottom: 338px;
+    margin-bottom: 0px;
 }
 .box2 {
-	background-color: yellow;
+    background-color: #ef1f56;
     margin-left: 510px;
-    margin-top: -479px;
-    padding-bottom: 210px;
+    margin-top: -687px;
+    padding-bottom: 208px;
 }
 .box3 {
-	background-color: white;
+	background-color: #1a4b99;
     margin-left: 510px;
     padding-bottom: 196px;
     margin-top: 21px;
+}
+.logobox1 {
+    text-decoration: none;
+    width: 100%;
+    padding: 6px;
+    margin-left: -11px;
+    margin-right: -33px;
+    padding-right: 1px;
+    padding-left: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFF !important;
+    font-size: 1.4em;
+    background: #f8cb33;
+    border-bottom: 9px #C09446 solid;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 20px;
+}
+.title7 {
+	color: rgb(255, 255, 255);
+	padding-left: 46px;
+}
+.boxproduct1 {
+	background-color: white;
+    margin-left: 28px;
+    margin-right: 35px;
+    margin-bottom: -85px;
+    margin-top: 33px;
+    padding-bottom: 293px;
 }
