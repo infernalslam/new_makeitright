@@ -182,15 +182,24 @@ li a:hover {
 }
 .box2 {
     background-color: #ef1f56;
-    margin-left: 510px;
+    margin-left: 524px;
     margin-top: -687px;
     padding-bottom: 43px;
+    /*เงา*/
+    -webkit-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
 }
 .box3 {
 	background-color: #1a4b99;
-    margin-left: 510px;
-    padding-bottom: 196px;
-    margin-top: 21px;
+    margin-left: 524px;
+    padding-bottom: 69px;
+    margin-top: 28px;
+    padding-top: 86px;
+    /*เงา*/
+    -webkit-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.75);
 }
 .logobox1 {
     text-decoration: none;
@@ -221,6 +230,7 @@ li a:hover {
     margin-bottom: -85px;
     margin-top: 33px;
     padding-bottom: 293px;
+    border-radius: 10%;
 }
 .circle1 {
 	background-color: #f8cb33;
@@ -234,6 +244,7 @@ li a:hover {
 	color: #1f2a3a;
 	margin-left: -65px;
 	padding-top: 19px;
+	margin-top: -33px;
 }
 .text2 {
 	color: #ef1f54;
@@ -245,3 +256,29 @@ li a:hover {
     margin-left: -56px;
     margin-top: -26px;
 }
+.circle2 {
+	background-color: #f8cb33;
+    height: 0px;
+    width: 90px;
+    padding-bottom: 137px;
+    padding-left: 92px;
+    border-radius: 3% 4% 152% 0%;
+    margin-top: -105px;
+}
+.text4 {
+	color: #1f2a3a;
+	padding-top: 11px;
+    margin-left: -73px;
+}
+.text5 {
+	color: #ef1f54;
+    margin-left: -70px;
+    margin-top: -24px;
+}
+.text6 {
+	color: #ef1f54;
+    margin-left: -54px;
+    margin-top: -25px;
+}
+
+/*////////////////// จบส่วนที่สอง*/
